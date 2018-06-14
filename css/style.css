@@ -1,0 +1,89 @@
+body {
+    background-color: #ccc;
+}
+
+h1 {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+h2 {
+  padding: 10px;
+  font-size: 30px;
+  color: #3bb8db;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.button {
+  background-color: #5a92ed;
+  border: none;
+  color: #fff;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.blogtekst {
+  display: block;
+  background-color: #fff;
+  width: 600px;
+  height: auto;
+  margin: auto;
+  border-radius: 10px;
+  padding-left: 12px;
+  }
+
+.inlog {
+  display: block;
+  background-color: #fff;
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 5px;
+  clear: both;
+  color: #878787;
+}
+
+.inlog input {
+  width: 100%;
+  clear: both;
+  }
+
+.inlog textarea {
+  width: 100%;
+  clear: both;
+}
+
+.auteur {
+  color: #bfbfbf;
+  font-size: 10px;
+  font-style: italic;
+  padding-left: 12px;
+}
+
+.datum {
+  color: #bfbfbf;
+  font-size: 10px;
+  font-style: italic;
+  padding-left: 12px;
+}
+
+.blogartikel {
+  font-size: 14px;
+  padding: 12px;
+  font-family: 'Lato', sans-serif;
+}

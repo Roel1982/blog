@@ -1,0 +1,12 @@
+body {
+    background-color: #ccc;
+}
+
+.inlog {
+  display: block;
+  background-color: #fff;
+  width: 750px;
+  height: auto;
+  align-content: center;
+  border-radius: 10px;
+}
